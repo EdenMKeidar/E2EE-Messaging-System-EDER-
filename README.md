@@ -11,7 +11,7 @@ If a recipient is offline, messages are cached and delivered when they reconnect
 
 ## How to Run
 
-### 1) Prerequisites
+ Prerequisites
 - Python 3.10+
 - Install dependencies:
 bash

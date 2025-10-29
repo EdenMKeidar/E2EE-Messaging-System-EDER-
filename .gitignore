@@ -1,4 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
 
-/eden_keidar_test-server.py
-/__pycache__
-/פרוייקט אבטחת מהמרחב המקוון.pdf
+# Local data generated at runtime
+client_db/
+client_db2/
+server_db/
+*.json
+
+# OS / IDE files
+.DS_Store
+Thumbs.db
+
+# Personal / docs
+*.pdf
+*.docx
+*.xlsx
